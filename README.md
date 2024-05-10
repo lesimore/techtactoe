@@ -1,9 +1,9 @@
-<div align="center">
-# Multi-Dimensional N-Hypercube Quantum Tic-Tac-Toe with Multi-Dimensional Multiverse Time-Travel:
-## (AKA Tech-Tac-Toe)
-## The Most Complicated Edition of Tic-Tac-Toe
-## Command Line Edition
-</div>
+<p align="center">
+  <h1>Multi-Dimensional N-Hypercube Quantum Tic-Tac-Toe with Multi-Dimensional Multiverse Time-Travel:</h1>
+  <h2>(AKA Tech-Tac-Toe)</h2>
+  <h2>The Most Complicated Edition of Tic-Tac-Toe</h2>
+  <h2>Command Line Edition</h2>
+</p>
 This game is a command line edition of the most complicated version of the popular game Tic-Tac-Toe, Tech-Tac-Toe (as to my knowlege.) The rules for this game are in the file `manual.md`, meanwhile this file will explain the usage of the commands.
 ### Launch Tech-Tac-Toe:
 ### Basic Interface & Misc. Commands:
