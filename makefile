@@ -1,10 +1,10 @@
 files := src/main.cpp
 
-bin/techtactoe : bin/main.o
+build/techtactoe : build/main.o
 	g++ -o $@ $^
 
-bin/main.o : src/main.cpp
+build/main.o : src/main.cpp
 	g++ -c $^ -o $@
 
 clean:
-	rm -f bin/main.o
+	rm -f build/main.o
