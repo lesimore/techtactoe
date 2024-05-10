@@ -31,3 +31,19 @@
 - Quantum entanglement is also implemented. Any player can **entangle** two cells, hiding their states. When a player decides to observe an entangled cell (by **reading** it), that cell will collapse to a random state, and, the other cell will collapse to the opposite of the **read** cell.
 
 - Winning now requires a player to win in all universes.
+
+### Possible Moves:
+
+- Mark:
+
+    Marking is the most basic of **Tech-Tac-Toe** moves. It is where a player marks a cell of choice, as their player name (X, or O.)
+
+- Time-Travel:
+
+    A player can play this move with any other move, and it is quite simple. This move allows a player to move through time, make a new timeline, and then play their next move. They can also play this move unaccompanied.
+
+- Branch:
+
+    When a player branches, they make a new timeline, copying the current one they are on.
+
+\* still working on it
