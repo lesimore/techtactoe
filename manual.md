@@ -22,7 +22,7 @@
 
 `O Past | O Future`
 
-- Additionally, there are **4** extra temporal (time) dimensions. On any turn, you can decide to make a move in any direction between headtime, and the extra temporals.
+- Additionally, there are **4** extra temporal (time) dimensions. On any turn, you can move in these dimensions.
 
 - On any turn, you can also make a new timeline, as a copy from the current one.
 
@@ -32,18 +32,47 @@
 
 - Winning now requires a player to win in all universes.
 
+### Object:
+
+To win **Tech-Tac-Toe**, a player must get a three(or alternate width)-in-a-row of their player name (X or O) in each universe.
+
 ### Possible Moves:
 
-- Mark:
+- **Mark**:
 
-    Marking is the most basic of **Tech-Tac-Toe** moves. It is where a player marks a cell of choice, as their player name (X, or O.)
+    Marking is the most basic of **Tech-Tac-Toe** moves. It is where a player marks a cell of choice, at the time and timeline of choice as their player name (X or O.)
 
-- Time-Travel:
-
-    A player can play this move with any other move, and it is quite simple. This move allows a player to move through time, make a new timeline, and then play their next move. They can also play this move unaccompanied.
-
-- Branch:
+- **Branch**:
 
     When a player branches, they make a new timeline, copying the current one they are on.
+
+- **Timeline Merge**:
+
+    All players have the ability to merge two seperate timelines on the multiverse axis. Each of the corresponding cells from each timeline will combine into one. Keep in mind that two of the same cell will combine into their original form, and one empty cell and a filled cell will combine into the state of the filled cell.
+
+- **Board Merge**:
+
+    This is basically just the timeline merge but with only one board.
+
+- **Timeline Collapse**:
+
+    This move will take a merged timeline, and collapse all of the superposition cells into a random part of the cell.
+
+- **Timeline Split**:
+
+    Splitting a timeline is the opposite of merging two of them. It removes each part of the superpositions, and puts them in seperate timelines.
+
+- **Board Collapse & Split**:
+
+    There are also varieties of collapsing and splitting for singular boards.
+
+- **Entangle**:
+
+    Entangling is where a player hides the states of two cells, and entangles them. This doesn't do much until one of the cells is observed.
+
+- **Observe**:
+
+    When a player observes an entangled cell, that cell will receive a random state, and the other cell will receive the opposite.
+
 
 \* still working on it
